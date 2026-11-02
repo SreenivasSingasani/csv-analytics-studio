@@ -1,0 +1,33 @@
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Android / Gradle
+android/.gradle/
+android/**/build/
+android/local.properties
+android/.cxx/
+
+# IDE settings
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+*.jks
+*.keystore

@@ -1,0 +1,2 @@
+import {Moon,Sun} from "lucide-react";
+export default function ThemeSwitcher({theme,onToggle}) { return <button className="icon-button" onClick={onToggle} aria-label="Toggle theme">{theme==="dark"?<Sun size={17}/>:<Moon size={17}/>}</button>; }

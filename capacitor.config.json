@@ -1,0 +1,18 @@
+{
+  "appId": "com.builtbysreenuzero6.csvanalyticsstudio",
+  "appName": "CSV Analytics Studio",
+  "webDir": "dist",
+  "backgroundColor": "#080808",
+  "androidScheme": "https",
+  "plugins": {
+    "StatusBar": {
+      "style": "LIGHT",
+      "backgroundColor": "#080808",
+      "overlaysWebView": false
+    },
+    "Keyboard": {
+      "resize": "body",
+      "resizeOnFullScreen": true
+    }
+  }
+}
