@@ -1,3 +1,22 @@
+## 🚀 Live Demo
+
+**Try CSV Analytics Studio:** [Open Web Application](https://csv-analytics-studio.singasanisreenivas06.workers.dev)
+
+Analyze CSV files directly in your browser without requiring Python or advanced Excel knowledge.
+
+### ✨ Key Features
+
+- Browser-based CSV analysis
+- Interactive data visualization
+- Data insights and exploration
+- Local-first data processing
+- IndexedDB-based local project storage
+- Backup and restore functionality
+
+**Available Platforms:** Web Application | Android Application
+
+
+
 # CSV Analytics Studio — Phase 3: CSV Import Engine
 
 Built By Sreenu_Zero6 · Ideas into applications.
